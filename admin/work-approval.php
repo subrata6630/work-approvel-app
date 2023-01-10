@@ -86,14 +86,14 @@
                 2. Confirm our readiness to operators and make sure the routing on the schedule.
                 3.keep note by the billing team.</td>
             <td rowspan="5">29.04.2012:11:30 am to 1:00 pm</td>
-            <td height="100">1.Core</td>
+            <td height="100"><strong>1.Core</strong></td>
         </tr>
         <tr>
-            <td height="100">2.Transmission</td>
+            <td height="100"><strong>2.Transmission</strong></td>
 
         </tr>
         <tr>
-            <td rowspan="3" height="100">3.Billing</td>
+            <td rowspan="3" height="100"><strong>3.Billing</strong></td>
         </tr>
         <tr>
             <td rowspan="2" height="100"><strong>2.Purpose</strong></td>
@@ -123,6 +123,7 @@
                               </div>
                               <!--table-two Start-->
                               <hr>
+                              <div class="container-fluid">
                               <div class="row">
                                  <div class="col-lg-12">
                                     <div class="row d-flex justify-content-center operation" bis_skin_checked="1"  ">
@@ -180,6 +181,7 @@
                                  </div>
                                  <hr>
                               </div>
+                           </div>
                               <!--table-two End-->
                                  <div class="row">
                                     <div class="col-lg-6">
