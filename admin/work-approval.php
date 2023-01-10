@@ -1,14 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="en">
    <?php include 'includes/header.php' ?>
-   <style>
-      .operation{
-	 padding-top: 3%;
-    font-size: 80%;
-    max-width: 104%;
-    font-family: arial;
-   }
-   </style>
    <body class="materialdesign">
       <?php include 'includes/sidebar.php' ?>
       <?php include 'includes/topbar.php' ?>
@@ -105,7 +97,7 @@
         </tr>
         <tr>
             <td rowspan="2" height="100"><strong>2.Purpose</strong></td>
-            <td rowspan="2" height="100"><strong>This is regular opertion to launch the IPTSP operator traffic routing.</strong></td>
+            <td rowspan="2" height="100">This is regular opertion to launch the IPTSP operator traffic routing.</td>
         </tr>         
         
     </table>
@@ -117,7 +109,7 @@
                                        <td><strong>E. Operation Details</strong></td>
                                        <td><strong>F. Implemented by</strong></td>
                                     </tr>
-                                    <tr height="100">
+                                    <tr height="200">
                                        <td rowspan="4">0</td>
                                        <td><strong>1.Core</strong></td>
                                     </tr>
@@ -140,7 +132,7 @@
                                                 <th>G.Operation Deatails</th>
                                              </tr>
                                              <tr>
-                                                <td height="100" >Date and Signature</td>
+                                                <td height="150" >Date and Signature</td>
                                              <tr>
                                           </table>
                                        </div>
@@ -150,7 +142,7 @@
                                                 <th>H. Approved</th>
                                              </tr>
                                              <tr>
-                                                <td  height="100" >Date and Signature</td>
+                                                <td  height="150" >Date and Signature</td>
                                              <tr>
                                           </table>
                                        </div>
@@ -160,7 +152,7 @@
                                                 <th>I. Commercial Approved by</th>
                                              </tr>
                                              <tr>
-                                                <td height="100" >Date and Signature</td>
+                                                <td height="150" >Date and Signature</td>
                                              <tr>
                                           </table>
                                        </div>
@@ -170,7 +162,7 @@
                                                 <th >J. Verified by</th>
                                              </tr>
                                              <tr>
-                                                <td  height="100">Date and Signature</td>
+                                                <td  height="150">Date and Signature</td>
                                              <tr>
                                           </table>
                                        </div>
@@ -180,7 +172,7 @@
                                                 <th>K.Accepted by COO & CTO</th>
                                              </tr>
                                              <tr>
-                                                <td  height="100">Date and Signature</td>
+                                                <td  height="150">Date and Signature</td>
                                              <tr>
                                           </table>
                                        </div>
