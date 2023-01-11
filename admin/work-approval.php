@@ -71,36 +71,36 @@
                            <div class="row">
                               <div class="col-lg-6 bis_skin_checked="1">
                               <table border="1" cellspacing="0" cellpadding="10" width="98%">
-        <caption><strong>Plan</strong></caption>
-        <tr>
-           <td height="100">0</td>
-           <td height="100"><strong>A. Work Details</strong></td>
-           <td height="100"><strong>B. Propose Procedure</strong></td>
-           <td height="100"><strong>C. Schedule</strong></td>
-           <td height="100"><strong>D. Informed to</strong></td>
-        </tr
-        <tr>
-            <td rowspan="3" height="100"><strong>1.Activity</strong></td>
-            <td rowspan="3" >Nreach want to test calls with mir at Dhaka.</td>
-            <td rowspan="5">1. Billing team will confirm their readiness.
-                2. Confirm our readiness to operators and make sure the routing on the schedule.
-                3.keep note by the billing team.</td>
-            <td rowspan="5">29.04.2012:11:30 am to 1:00 pm</td>
-            <td height="100"><strong>1.Core</strong></td>
-        </tr>
-        <tr>
-            <td height="100"><strong>2.Transmission</strong></td>
+                                 <caption><strong>Plan</strong></caption>
+                                 <tr>
+                                    <td height="100">0</td>
+                                    <td height="100"><strong>A. Work Details</strong></td>
+                                    <td height="100"><strong>B. Propose Procedure</strong></td>
+                                    <td height="100"><strong>C. Schedule</strong></td>
+                                    <td height="100"><strong>D. Informed to</strong></td>
+                                 </tr
+                                 <tr>
+                                       <td rowspan="3" height="100"><strong>1.Activity</strong></td>
+                                       <td rowspan="3" >Nreach want to test calls with mir at Dhaka.</td>
+                                       <td rowspan="5">1. Billing team will confirm their readiness.
+                                          2. Confirm our readiness to operators and make sure the routing on the schedule.
+                                          3.keep note by the billing team.</td>
+                                       <td rowspan="5">29.04.2012:11:30 am to 1:00 pm</td>
+                                       <td height="100"><strong>1.Core</strong></td>
+                                 </tr>
+                                 <tr>
+                                       <td height="100"><strong>2.Transmission</strong></td>
 
-        </tr>
-        <tr>
-            <td rowspan="3" height="100"><strong>3.Billing</strong></td>
-        </tr>
-        <tr>
-            <td rowspan="2" height="100"><strong>2.Purpose</strong></td>
-            <td rowspan="2" height="100">This is regular opertion to launch the IPTSP operator traffic routing.</td>
-        </tr>         
-        
-    </table>
+                                 </tr>
+                                 <tr>
+                                       <td rowspan="3" height="100"><strong>3.Billing</strong></td>
+                                 </tr>
+                                 <tr>
+                                       <td rowspan="2" height="100"><strong>2.Purpose</strong></td>
+                                       <td rowspan="2" height="100">This is regular opertion to launch the IPTSP operator traffic routing.</td>
+                                 </tr>         
+                                 
+                              </table>
                               </div>
                               <div class="col-lg-6">
                                  <table border="1"  cellspacing="0" cellpadding="10" width="98%">
@@ -182,10 +182,32 @@
                                  <hr>
                               </div>
                            </div>
+                           <br>
                               <!--table-two End-->
-                                 <div class="row">
+                                 <div class="row bis_skin_checked="1"">
                                     <div class="col-lg-6">
-                                       <label  for="formFileSm" class="form-label">Small file input </label>
+                                       <label style="float:left;padding-left:15px" for="formFileSm" class="form-label">BTRC Allocation Letter </label>
+                                       <input class="form-control form-control-sm" id="formFileSm" type="file">
+                                    </div>
+                                 </div>
+                                    <br>
+                                 <div class="row bis_skin_checked="1"">
+                                    <div class="col-lg-6">
+                                       <label style="float:left;padding-left:15px" for="formFileSm" class="form-label">Client Authorization Letter </label>
+                                       <input class="form-control form-control-sm" id="formFileSm" type="file">
+                                    </div>
+                                 </div>
+                                 <br>
+                                 <div class=" row bis_skin_checked="1"">
+                                    <div class="col-lg-6">
+                                       <label style="float:left;padding-left:15px" for="formFileSm" class="form-label">E1 Permission Letter </label>
+                                       <input class="form-control form-control-sm" id="formFileSm" type="file">
+                                    </div>
+                                 </div>
+                                 <br>
+                                 <div class="row bis_skin_checked="1"">
+                                    <div class="col-lg-6">
+                                       <label style="float:left;padding-left:15px" for="formFileSm" class="form-label">Migration Permission Letter From BTRC </label>
                                        <input class="form-control form-control-sm" id="formFileSm" type="file">
                                     </div>
                                  </div>
