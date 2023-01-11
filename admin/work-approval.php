@@ -58,7 +58,7 @@
                                  New Escalation* :
                                  </h4>
                               </div>
-                              <div class="col-lg-4" bis_skin_checked="1">
+                              <div class="col-lg-4" bis_skin_checked="1" required>
                                  <select class="form-control form-control-lg">
                                        <option>New Short Code</option>
                                        <option>Capacitiy Expansion</option>
@@ -184,9 +184,17 @@
                            </div>
                            <br>
                               <!--table-two End-->
+                              <div class="row bis_skin_checked="1"">
+                                    <div class="col-lg-6">
+                                       <label style="float:left;padding-left:15px" for="formFileSm" class="form-label" required>Correspond Mail* </label>
+                                       <input class="form-control form-control-sm" id="formFileSm" type="file">
+                                    </div>
+                                    <br>
+                                 </div>
+                                 <br>
                                  <div class="row bis_skin_checked="1"">
                                     <div class="col-lg-6">
-                                       <label style="float:left;padding-left:15px" for="formFileSm" class="form-label">BTRC Allocation Letter </label>
+                                       <label style="float:left;padding-left:15px" for="formFileSm" class="form-label" required>BTRC Allocation Letter* </label>
                                        <input class="form-control form-control-sm" id="formFileSm" type="file">
                                     </div>
                                  </div>
