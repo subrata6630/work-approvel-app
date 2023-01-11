@@ -12,5 +12,7 @@
 
 ### 1-composer update or composer install
 ### 2- Make .env to be .env.example
-### 3- open .env (vs code) and create database
-### 4- commend "php artisan key:generate"
+### 3- command"php artisan key:generate"
+### 4- open .env (vs code) and create database-
+### 5- phpmyadmin create database "xyz"
+### 6- commend "php artisan migrate"
