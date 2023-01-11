@@ -16,3 +16,8 @@
 ### 4- open .env (vs code) and create database-
 ### 5- phpmyadmin create database "xyz"
 ### 6- commend "php artisan migrate"
+
+
+#  Project Work:
+### 1. HTMLTemplate Convert To Laravel
+### 2. Laravel Database Desing
