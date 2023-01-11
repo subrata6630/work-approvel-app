@@ -8,9 +8,9 @@
 ### git push
 
 
-#Clone Laravel Project in GitHub
+# Clone Laravel Project in GitHub
 
-###1-composer update or composer install
-###2- Make .env to be .env.example
-###3- open .env (vs code) and create database
-###4- commend "php artisan key:generate"
+### 1-composer update or composer install
+### 2- Make .env to be .env.example
+### 3- open .env (vs code) and create database
+### 4- commend "php artisan key:generate"
