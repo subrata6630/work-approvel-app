@@ -46,11 +46,22 @@
                </div>
                <div class="sparkline13-graph">
                   <div class="datatable-dashv1-list custom-datatable-overright">
-                     <div class="row">
-                        <div class="col-lg-12">
-                           <h4>Form-740</h4>
-                           <h3>Subject: New Connectivity for KS Network Limited</h3>
-                           <h5>Date: 25/07/2022</h5>
+                           <div class="row">
+                              <div class="col-lg-6">
+                                 <h4 class="text-left">Form- <input type="number" name="" id="" placeholder="740" > </h4> 
+                              </div>
+                              <div class="col-lg-6">
+                              <h4 class="text-right">Date- <input type="datetime-local" name="" id=""></h4> 
+                           </div> 
+                           </div>
+                           <hr>
+                           <div class="row">
+                           <div class="col-lg-12">
+                              <h4>Subject- <input type="text" name="" id="" placeholder="Routing the Short Code (10679)"</h4> 
+                           </div>
+                          
+                           </div>
+                            
                            <hr>
                            <div class="row">
                               <div class="col-lg-8" bis_skin_checked="1">
@@ -186,7 +197,7 @@
                               <!--table-two End-->
                               <div class="row bis_skin_checked="1"">
                                     <div class="col-lg-6">
-                                       <label style="float:left;padding-left:15px" for="formFileSm" class="form-label" required>Correspond Mail* </label>
+                                       <label style="float:left;padding-left:15px" for="formFileSm" class="form-label" required>Reference  Mail* </label>
                                        <input class="form-control form-control-sm" id="formFileSm" type="file">
                                     </div>
                                     <br>
