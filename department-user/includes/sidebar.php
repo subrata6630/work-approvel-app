@@ -19,6 +19,9 @@
                         <li class="nav-item">
                             <a href="upload-files.php" ><i class="fa big-icon fa-file"></i> <span class="mini-dn">Upload Files</span> </span></a>
                         </li>
+                        <li class="nav-item">
+                            <a href="work-approval.php" ><i class="fa big-icon fa-file"></i> <span class="mini-dn">Work Approval From</span> </span></a>
+                        </li>
                     </ul>
                 </div>
             </nav>

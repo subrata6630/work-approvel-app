@@ -92,13 +92,11 @@
                                  </tr
                                  <tr>
                                        <td rowspan="3" height="100"><strong>1.Activity</strong></td>
-                                       <td rowspan="3" ><textarea row="80" cols="20" class="form-control" type="text" style="height: 181px; width: 75px;"></textarea></td>
+                                       <td rowspan="3" >Nreach want to test calls with mir at Dhaka.</td>
                                        <td rowspan="5">1. Billing team will confirm their readiness.
                                           2. Confirm our readiness to operators and make sure the routing on the schedule.
                                           3.keep note by the billing team.</td>
-                                       <td rowspan="5">
-                                       <textarea row="80" cols="20" class="form-control" type="text" style="height: 330px; width: 60px;"></textarea>
-                                       </td>
+                                       <td rowspan="5">29.04.2012:11:30 am to 1:00 pm</td>
                                        <td height="100"><strong>1.Core</strong></td>
                                  </tr>
                                  <tr>
@@ -110,7 +108,7 @@
                                  </tr>
                                  <tr>
                                        <td rowspan="2" height="100"><strong>2.Purpose</strong></td>
-                                       <td rowspan="2" height="100"><textarea row="80" cols="20" class="form-control" type="text" style="height: 193px; width: 67px;"></textarea></td>
+                                       <td rowspan="2" height="100">This is regular opertion to launch the IPTSP operator traffic routing.</td>
                                  </tr>         
                                  
                               </table>
@@ -123,23 +121,14 @@
                                        <td><strong>F. Implemented by</strong></td>
                                     </tr>
                                     <tr height="200">
-                                       <td rowspan="4">0
-                                       <textarea row="80" cols="20" class="form-control" type="text" style="height: 357px; width: 183px;" placeholder=""></textarea>
-                                       </td>
-                                       <td>
-                                          <strong>1.Core</strong> <br>
-                                          <textarea row="80" cols="20" class="form-control" type="text" style="height: 153px; width: 235px;"></textarea>
-                                       </td>
+                                       <td rowspan="4">0</td>
+                                       <td><strong>1.Core</strong></td>
                                     </tr>
                                     <tr height="100">
-                                       <td><strong>2.Transmission</strong> <br>
-                                       <textarea row="80" cols="20" class="form-control" type="text" style="height: 57px; width: 243px;"></textarea>
-                                    </td>
+                                       <td><strong>2.Transmission</strong></td>
                                     </tr>
                                     <tr height="100">
-                                       <td><strong>3.Billing</strong><br>
-                                       <textarea row="80" cols="20" class="form-control" type="text" style="height: 60px; width: 239px;"></textarea>
-                                    </td>
+                                       <td><strong>3.Billing</strong></td>
                                     </tr>
                                  </table>
                               </div>
@@ -286,7 +275,7 @@
                                  <br>
                                  <div class="row bis_skin_checked="1"">
                                     <div class="col-lg-6">
-                                       <label style="float:left;padding-left:15px" for="formFileSm" class="form-label">Application For Connectivity </label>
+                                       <label style="float:left;padding-left:15px" for="formFileSm" class="form-label">Application For New Connectivity </label>
                                        <input class="form-control form-control-sm" id="formFileSm" type="file">
                                     </div>
                                  </div>
