@@ -57,7 +57,7 @@
                            <hr>
                            <div class="row">
                            <div class="col-lg-12">
-                              <h4>Subject- <input type="text" name="" id="" placeholder="Routing the Short Code (10679)"</h4> 
+                              <h4>Subject- <input type="text"  size="80" name="" id="" placeholder="Routing the Short Code (10679)"</h4> 
                            </div>
                           
                            </div>
@@ -79,25 +79,35 @@
                               </div>
                            </div>
                            <hr>
+                           
                            <div class="row">
-                              <div class="col-lg-6 bis_skin_checked="1">
+                              <div class="col-lg-8 bis_skin_checked="1">
+                              <div class="table-responsive">
                               <table border="1" cellspacing="0" cellpadding="10" width="98%">
                                  <caption><strong>Plan</strong></caption>
                                  <tr>
-                                    <td height="100">0</td>
+                                    <td height="0">0</td>
                                     <td height="100"><strong>A. Work Details</strong></td>
                                     <td height="100"><strong>B. Propose Procedure</strong></td>
                                     <td height="100"><strong>C. Schedule</strong></td>
                                     <td height="100"><strong>D. Informed to</strong></td>
                                  </tr
                                  <tr>
-                                       <td rowspan="3" height="100"><strong>1.Activity</strong></td>
-                                       <td rowspan="3" ><textarea row="80" cols="20" class="form-control" type="text" style="height: 181px; width: 75px;"></textarea></td>
-                                       <td rowspan="5">1. Billing team will confirm their readiness.
-                                          2. Confirm our readiness to operators and make sure the routing on the schedule.
-                                          3.keep note by the billing team.</td>
+                                       <td rowspan="3" height="100" style="-webkit-transform: rotate(-90deg);-moz-transform: rotate(-90deg);-ms-transform: rotate(-90deg);"><strong>1.Activity</strong></td>
+                                       <td rowspan="3" ><textarea class="form-control" type="text" placeholder="Opening of Short code 10679 of BETTER LIFE HOSPITAL LTD towars Next Online IPTSP (1634)." style="height: 175px; width: 131px;"></textarea></td>
                                        <td rowspan="5">
-                                       <textarea row="80" cols="20" class="form-control" type="text" style="height: 330px; width: 60px;"></textarea>
+                                          <ul class="text-justify">
+                                             <li>1. Our billing team will confirm their readiness.</li>
+                                             <li>2. Make routing configuration and open the route for the test(both way traffic) on schedule in Core.</li>
+                                             <li>3. After necessary technical test close the route and infrom to billing team.</li>
+                                             <li>4. Billing team will confirm to core team will confirm to core team after their necessary test.</li>
+                                             <li>5. with commercial approval core will open route on launching date.</li>
+                                          </ul>
+                                        </td>
+                                       <td rowspan="5">
+                                          <strong><center><u>Test:</u></center></strong><br> 
+                                          <strong><u>Commercial:</u></strong><br>
+                                          <p>Confirm after Successful Test.</P>
                                        </td>
                                        <td height="100"><strong>1.Core</strong></td>
                                  </tr>
@@ -109,39 +119,45 @@
                                        <td rowspan="3" height="100"><strong>3.Billing</strong></td>
                                  </tr>
                                  <tr>
-                                       <td rowspan="2" height="100"><strong>2.Purpose</strong></td>
-                                       <td rowspan="2" height="100"><textarea row="80" cols="20" class="form-control" type="text" style="height: 193px; width: 67px;"></textarea></td>
+                                       <td rowspan="2" height="100" style="-webkit-transform: rotate(-90deg);-moz-transform: rotate(-90deg);-ms-transform: rotate(-90deg);"><strong>2.Purpose</strong></td>
+                                       <td rowspan="2" height="100"><textarea  class="form-control" type="text" style="height: 87px; width: 128px;" placeholder="Due to BTRC directive."></textarea></td>
                                  </tr>         
                                  
                               </table>
+                           </div>
                               </div>
-                              <div class="col-lg-6">
+                              <div class="col-lg-4">
+                                 <div class="table-responsive">
                                  <table border="1"  cellspacing="0" cellpadding="10" width="98%">
                                     <caption><strong>Execution</strong></caption>
                                     <tr height="100">
                                        <td><strong>E. Operation Details</strong></td>
                                        <td><strong>F. Implemented by</strong></td>
                                     </tr>
-                                    <tr height="200">
-                                       <td rowspan="4">0
-                                       <textarea row="80" cols="20" class="form-control" type="text" style="height: 357px; width: 183px;" placeholder=""></textarea>
+                                    <tr height="240">
+                                       <td rowspan="4">
+                                       <textarea class="form-control" type="text" style="height:309px; width: 130px;" placeholder="Configuration Done"></textarea>
                                        </td>
                                        <td>
                                           <strong>1.Core</strong> <br>
-                                          <textarea row="80" cols="20" class="form-control" type="text" style="height: 153px; width: 235px;"></textarea>
+                                          <p>Date and Signature</p>
+                                          
                                        </td>
                                     </tr>
-                                    <tr height="100">
+                                    <tr height="60">
                                        <td><strong>2.Transmission</strong> <br>
-                                       <textarea row="80" cols="20" class="form-control" type="text" style="height: 57px; width: 243px;"></textarea>
+                                       <p>Date and Signature</p>
+                                     
                                     </td>
                                     </tr>
-                                    <tr height="100">
+                                    <tr height="60">
                                        <td><strong>3.Billing</strong><br>
-                                       <textarea row="80" cols="20" class="form-control" type="text" style="height: 60px; width: 239px;"></textarea>
+                                       <p>Date and Signature</p>
+                                       
                                     </td>
                                     </tr>
                                  </table>
+                              </div>
                               </div>
                               <!--table-two Start-->
                               <hr>
@@ -155,7 +171,9 @@
                                                 <th>G.Operation Deatails</th>
                                              </tr>
                                              <tr>
-                                                <td height="150" >Date and Signature</td>
+                                                <td height="150" >Date and Signature
+                                                   Date: <input type="date" name="" id="">
+                                                </td>
                                              <tr>
                                           </table>
                                        </div>
@@ -164,9 +182,9 @@
                                              <tr>
                                                 <th>H. Approved</th>
                                              </tr>
-                                             <tr>
-                                                <td  height="150" >Date and Signature</td>
-                                             <tr>
+                                             <td height="150" >Date and Signature
+                                                   Date: <input type="date" name="" id="">
+                                                </td>
                                           </table>
                                        </div>
                                        <div class="col-lg-2 col-md-6">
@@ -174,9 +192,9 @@
                                              <tr>
                                                 <th>I. Commercial Approved by</th>
                                              </tr>
-                                             <tr>
-                                                <td height="150" >Date and Signature</td>
-                                             <tr>
+                                             <td height="150" >Date and Signature
+                                                   Date: <input type="date" name="" id="">
+                                                </td>
                                           </table>
                                        </div>
                                        <div class="col-lg-2 col-md-6">
@@ -184,9 +202,9 @@
                                              <tr>
                                                 <th >J. Verified by</th>
                                              </tr>
-                                             <tr>
-                                                <td  height="150">Date and Signature</td>
-                                             <tr>
+                                             <td height="150" >Date and Signature
+                                                   Date: <input type="date" name="" id="">
+                                                </td>
                                           </table>
                                        </div>
                                        <div class="col-lg-2 col-md-6">
@@ -194,9 +212,9 @@
                                              <tr>
                                                 <th>K.Accepted by COO & CTO</th>
                                              </tr>
-                                             <tr>
-                                                <td  height="150">Date and Signature</td>
-                                             <tr>
+                                             <td height="150" >Date and Signature
+                                                   Date: <input type="date" name="" id="">
+                                                </td>
                                           </table>
                                        </div>
                                     </div>
@@ -204,6 +222,7 @@
                                  <hr>
                               </div>
                            </div>
+
                            <br>
                               <!--table-two End-->
                               <div class="row bis_skin_checked="1"">

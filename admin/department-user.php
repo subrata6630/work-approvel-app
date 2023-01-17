@@ -132,6 +132,14 @@
                                                 </div>
                                                 <div class="form-group-inner">
                                                     <div class="row">
+                                                        <label style="float:left;padding-left:15px">Signature</label>
+                                                        <div class="col-lg-12">
+                                                            <input type="file" class="form-control"/>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group-inner">
+                                                    <div class="row">
                                                         <label style="float:left;padding-left:15px"><i class="fa big-icon fa-lock"></i> Account Information</label>
                                                     </div>
                                                 </div>
