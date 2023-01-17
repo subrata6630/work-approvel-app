@@ -157,6 +157,162 @@
             </div>
         </div>
     </div>
+         <!-- Static Table Start -->
+         <div class="income-order-visit-user-area">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="sparkline13-list shadow-reset">
+                        <div class="sparkline13-hd">
+                            <div class="main-sparkline13-hd">
+                                <h1><i class="fa big-icon fa-folder-open"></i> File Management</h1>
+                            </div>
+                        </div>
+                        <div class="sparkline13-graph">
+                            <div class="datatable-dashv1-list custom-datatable-overright">
+
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <table id="table" data-toggle="table" data-pagination="true" data-search="true"
+                                            data-show-export="true" data-toolbar="#toolbar">
+                                            <thead>
+                                                <tr>
+                                                    <th data-field="state" data-checkbox="true"></th>
+                                                    <th>Form Number</th>
+                                                    <th>File Keeper</th>
+                                                    <th>Remarks</th>
+                                                    <th>File Back</th>
+                                                    <th>Submitted Date</th>
+                                                    <th>Department</th>
+                                                    <th>Status</th>
+                                                    <th>Action</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td></td>
+                                                    <td>701</td>
+                                                    <td>CTRL-101-21</td>
+                                                    <td>Remarks</td>
+                                                    <td>Noc</td>
+                                                    <td>Nov 3, 2021</td>
+                                                    <td>Core</td>
+                                                    <td>
+                                                        <div class="btn-group project-list-ad-rd">
+                                                            <button class="btn btn-white btn-xs">pending</button>
+                                                        </div>
+                                                    </td>
+                                                    
+                                                    <td>
+                                                    <div class="btn-group project-list-ad" bis_skin_checked="1">
+                                                            <a href="#" class="btn btn-white btn-xs"><i class="fa fa-pencil"></i> Edit</a>
+                                                        </div>
+                                                        <div class="btn-group project-list-ad-rd" bis_skin_checked="1">
+                                                            <a href="#" class="btn btn-white btn-xs"><i class="fa fa-trash"></i> Delete</a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td></td>
+                                                    <td>704</td>
+                                                    <td>CTRL-456-21</td>
+                                                    <td>Remarks</td>
+                                                    <td>Billing</td>
+                                                    <td>Nov 4, 2021</td>
+                                                    <td>Transmission</td>
+                                                    <td>
+                                                        <div class="btn-group project-list-ad">
+                                                            <button class="btn btn-white btn-xs">approved</button>
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                    <div class="btn-group project-list-ad" bis_skin_checked="1">
+                                                            <a href="#" class="btn btn-white btn-xs"><i class="fa fa-pencil"></i> Edit</a>
+                                                        </div>
+                                                        <div class="btn-group project-list-ad-rd" bis_skin_checked="1">
+                                                            <a href="#" class="btn btn-white btn-xs"><i class="fa fa-trash"></i> Delete</a>
+                                                        </div>
+                                                    </td>
+                                                   
+                                                </tr>
+                                                <tr>
+                                                    <td></td>
+                                                    <td>702</td>
+                                                    <td>CTRL-456-21</td>
+                                                    <td>Remarks</td>
+                                                    <td>Transmission</td>
+                                                    <td>Nov 7, 2021</td>
+                                                    <td>Core</td>
+                                                    <td>
+                                                        <div class="btn-group project-list-ad-bl">
+                                                            <button class="btn btn-white btn-xs">for review</button>
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                    <div class="btn-group project-list-ad" bis_skin_checked="1">
+                                                            <a href="#" class="btn btn-white btn-xs"><i class="fa fa-pencil"></i> Edit</a>
+                                                        </div>
+                                                        <div class="btn-group project-list-ad-rd" bis_skin_checked="1">
+                                                            <a href="#" class="btn btn-white btn-xs"><i class="fa fa-trash"></i> Delete</a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td></td>
+                                                    <td>703</td>
+                                                    <td>CTRL-343-21</td>
+                                                    <td>Remarks</td>
+                                                    <td>Transmission</td>
+                                                    <td>Nov 7, 2021</td>
+                                                    <td>Billing</td>
+                                                    <td>
+                                                        <div class="btn-group project-list-ad">
+                                                            <button class="btn btn-white btn-xs">approved</button>
+                                                        </div>
+                                                    </td>
+                                                    <td>               
+                                                        <div class="btn-group project-list-ad" bis_skin_checked="1">
+                                                            <a href="#" class="btn btn-white btn-xs"><i class="fa fa-pencil"></i> Edit</a>
+                                                        </div>
+                                                        <div class="btn-group project-list-ad-rd" bis_skin_checked="1">
+                                                            <a href="#" class="btn btn-white btn-xs"><i class="fa fa-trash"></i> Delete</a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td></td>
+                                                    <td>703</td>
+                                                    <td>CTRL-112-21</td>
+                                                    <td>Remarks</td>
+                                                    <td>Noc</td>
+                                                    <td>Nov 6, 2021</td>
+                                                    <td>Billing</td>
+                                                    <td>
+                                                        <div class="btn-group project-list-ad">
+                                                            <button class="btn btn-white btn-xs">approved</button>
+                                                        </div>
+                                                    </td>
+                                                    <td>               
+                                                        <div class="btn-group project-list-ad" bis_skin_checked="1">
+                                                            <a href="#" class="btn btn-white btn-xs"><i class="fa fa-pencil"></i> Edit</a>
+                                                        </div>
+                                                        <div class="btn-group project-list-ad-rd" bis_skin_checked="1">
+                                                            <a href="#" class="btn btn-white btn-xs"><i class="fa fa-trash"></i> Delete</a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Static Table End -->
     </div>
     </div>
 

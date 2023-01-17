@@ -105,7 +105,7 @@
                                 <div class="login-button-pro">
                                     <a href="admin" class="login-button login-button-rg" style="text-decoration:none">Login as Admin</a>
                                     <a  href="department-user" class="login-button login-button-rd" style="text-decoration:none">Department User</a>
-                                    <a  href="approver-user" class="login-button login-button-lg" style="text-decoration:none">Approver User</a>
+                                    <!-- <a  href="approver-user" class="login-button login-button-lg" style="text-decoration:none">Approver User</a> -->
                                 </div>
                             </div>
                         </div>
